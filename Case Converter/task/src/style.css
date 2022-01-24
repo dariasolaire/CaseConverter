@@ -1,0 +1,36 @@
+.title {
+    font-size: 44px;
+    padding: 6px 0;
+}
+
+.btn-container {
+    display: flex;
+    margin-top: 10px;
+}
+
+.btn-style {
+    border: none;
+    background-color: coral;
+    border-radius: 2px;
+    font-size: 16px;
+}
+
+#upper-case {
+    padding: 4px;
+    margin-right: 4px;
+}
+
+#lower-case {
+    padding: 4px;
+    margin: 0 4px 0 4px;
+}
+
+#proper-case {
+    padding: 4px;
+    margin: 0 4px 0 4px;
+}
+
+#sentence-case {
+    padding: 4px;
+    margin: 0 4px 0 4px;
+}
